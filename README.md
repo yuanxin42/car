@@ -1,5 +1,5 @@
 # car
-php +CodeIgniter + jquery + mysql +Web组件开发的二手车交易系统
+php +CodeIgniter + jquery + mysql +Web组件开发的二手车交易系统</br>
 难度系数两颗星
 因为此项目是基于php开发，所以需要安装Apache  文件夹根目录下的SQL文件为此项目的sql文件  安装好xampp（我习惯用这个）运行sql文件
 访问localhost/car  
