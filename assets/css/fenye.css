@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.fl {
+  float: left;
+}
+.fenye {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+.fenye button {
+  padding: 0 10px;
+  margin: 0 10px;
+  height: 40px;
+  float: left;
+  cursor: pointer;
+  border: 1px solid #ebebeb;
+  background-color: #ffffff;
+}
+.fenye .first-page,
+.fenye .last-page {
+  margin: 0;
+}
+.fenye .pageWrap {
+  height: 40px;
+  float: left;
+  overflow: hidden;
+}
+.fenye .pageWrap ul {
+  width: 100000px;
+  height: 40px;
+  float: left;
+}
+.fenye .pageWrap ul li {
+  width: 60px;
+  height: 38px;
+  border: 1px solid #ebebeb;
+  line-height: 38px;
+  fenye-sizing: border-fenye;
+  cursor: pointer;
+  float: left;
+}
+.fenye .pageWrap ul .sel-page {
+  background-color: yellow;
+}
+.fenye .jump-text {
+  width: 60px;
+  height: 40px;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0 5px;
+  float: left;
+}
+.fenye .jump-button {
+  margin: 0;
+  float: left;
+}
+.fenye .total-pages,
+.fenye .total-count {
+  margin-left: 10px;
+  float: left;
+  font-size: 14px;
+}
